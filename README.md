@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me IG- s.h.i.v.a.m_Durg.ude
+- 📫 How to reach me linkedIn-https://www.linkedin.com/in/shivam-durgude-490088231/
 
 <!---
 SD191100/SD191100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
