@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shivam Durgude(@SD191100)
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Web Development and Web3
+- 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me linkedIn-https://www.linkedin.com/in/shivam-durgude-490088231/
 
 <!---
