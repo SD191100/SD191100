@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shivam Durgude(@SD191100)
 - 👀 I’m interested in Programming and hacking
-- 🌱 I’m currently learning Web Development and Networking
-- 💞️ I’m looking to collaborate on Web Development
+- 🌱 I’m currently learning Devops and Networking
+- 💞️ I’m looking to collaborate on Devops and Web Development
 - 📫 How to reach me LinkedIn-https://www.linkedin.com/in/shivam-durgude-490088231/
 - 🌱 You can visit my blog at https://blog.devsh.tech
 
